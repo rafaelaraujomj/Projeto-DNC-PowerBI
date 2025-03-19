@@ -40,9 +40,9 @@ Etapa 04: Filtros
 Filtros baseados em bandeira, estado, canal de venda, departamento, idade, faixa de renda e estado de nascimento.
 
 ----------------
-![Report de Vendas](https://raw.githubusercontent.com/rafaelaraujomj/Projeto-DNC-PowerBI/refs/heads/main/Pasted%20image%2020250319180205.png?token=GHSAT0AAAAAADALMHN3BVHSZGQGWGJAUBS4Z63IBNA)
+![Report de Vendas](https://raw.githubusercontent.com/rafaelaraujomj/Projeto-DNC-PowerBI/refs/heads/main/Pasted%20image%2020250319180205.png)
 -----------------
-![Perfil do Cliente](https://raw.githubusercontent.com/rafaelaraujomj/Projeto-DNC-PowerBI/refs/heads/main/Pasted%20image%2020250319180101.png?token=GHSAT0AAAAAADALMHN3CPQCPW5LL3ZKC374Z63IAAQ)
+![Perfil do Cliente](https://raw.githubusercontent.com/rafaelaraujomj/Projeto-DNC-PowerBI/refs/heads/main/Pasted%20image%2020250319180101.png)
 -------------------
 # Fórmula DAX
 
